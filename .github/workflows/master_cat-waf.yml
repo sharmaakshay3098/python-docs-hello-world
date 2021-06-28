@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'cat-waf'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_344636c0dd274f5290e40b772b41d867 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_b5c1b98fcdf446eb9d3a3463f27c0fb1 }}
